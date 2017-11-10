@@ -1,0 +1,32 @@
+﻿<XtraSerializer version="1.0" application="Appearances">
+  <property name="Button" iskey="true" value="Button">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">Control</property>
+  </property>
+  <property name="GroupBackground" iskey="true" value="GroupBackground">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">24, 24, 24</property>
+  </property>
+  <property name="Background" iskey="true" value="Background">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">25, 25, 25</property>
+  </property>
+  <property name="LinkDropTarget" iskey="true" value="LinkDropTarget">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+    </property>
+    <property name="ForeColor">Control</property>
+  </property>
+  <property name="GroupHeader" iskey="true" value="GroupHeader">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">24, 24, 24</property>
+  </property>
+</XtraSerializer>

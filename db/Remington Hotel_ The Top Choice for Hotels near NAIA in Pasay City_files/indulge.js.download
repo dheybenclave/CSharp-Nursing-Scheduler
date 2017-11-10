@@ -1,0 +1,5 @@
+$(window).scroll(function(){if($(".navbar").offset().top>50){$(".navbar-fixed-top").addClass("top-nav-collapse");}else{$(".navbar-fixed-top").removeClass("top-nav-collapse");}});$(function(){$('a.page-scroll').bind('click',function(event){var $anchor=$(this);$('html, body').stop().animate({scrollTop:$($anchor.attr('href')).offset().top},400,'easeInOutExpo');event.preventDefault();});});$('.navbar-collapse ul li a').click(function(){$('.navbar-toggle:visible').click();});$(document).ready(function(){if(window.location.href.indexOf('#indulge-P3500')!=-1){$('#indulge-P3500').modal('show');}
+if(window.location.href.indexOf('#indulge-pizza')!=-1){$('#indulge-pizza').modal('show');}
+if(window.location.href.indexOf('#indulge-merchants')!=-1){$('#indulge-merchants').modal('show');}
+if(window.location.href.indexOf('#indulge-member')!=-1){$('#indulge-member').modal('show');}
+if(window.location.href.indexOf('#bwn-50')!=-1){$('#bwn-50').modal('show');}});$("#room-gal-s, #room-gal-p").owlCarousel({navigation:true,navigationText:["<",">"],slideSpeed:300,paginationSpeed:400,singleItem:true});

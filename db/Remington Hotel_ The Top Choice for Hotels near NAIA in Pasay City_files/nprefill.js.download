@@ -1,0 +1,133 @@
+// <input type=text>
+function setText(obj, value)
+{
+		obj.value = value;
+}
+
+// <input type=checkbox>
+function setCheckBox(obj, value)
+{
+	if(obj.value == value) 
+		obj.checked = true;
+}
+
+// <select>
+function setSelect(obj, value, byValue)
+{
+		for(var i=0; i<obj.options.length; i++) {		
+				if((byValue && obj.options[i].value == value) || (!byValue && obj.options[i].text == value))
+						obj.selectedIndex = i;
+		}
+}
+
+// <input type=radio>
+function setRadio(obj, value)
+{
+		if(obj.value == value)
+				obj.checked = true;
+}
+
+// <textarea>
+function setTextArea(obj, value)
+{
+		obj.value = value;
+}
+
+// split date param and set all the input fields
+function setDate(name, value)
+{
+		var parts = value.split("-");
+		if(parseInt(parts[2]))
+				setValue(name, parseInt(parts[2]));
+		if(parseInt(parts[1]))
+				setValue(name, parseInt(parts[1]), 1);
+		setValue(name, parts[0]);
+}
+
+// find element with the given name and set its value
+function setValue(name, value, byValue)
+{
+		var col = document.getElementsByName(name);
+		if(col.length) {
+				for(var i=0; i<col.length; i++) {
+					
+						if(col[i].tagName == 'INPUT') {
+								if(col[i].type == 'text' || col[i].type == 'hidden' || col[i].type == 'password')
+										setText(col[i], value);
+								else if(col[i].type == 'checkbox')
+										setCheckBox(col[i], value);
+								else if(col[i].type == 'radio')
+										setRadio(col[i], value);
+						} else if(col[i].tagName == 'SELECT') {
+								setSelect(col[i], value, byValue);
+						} else if(col[i].tagName == 'TEXTAREA') {
+								setTextArea(col[i], value);
+						}
+						
+				}
+		}
+}
+
+// remove leading and trailing spaces
+function ltrim(s)
+{
+		if(!s) return '';
+		return s.replace(/^\s*/, "");
+}
+
+function rtrim(s)
+{
+		if(!s) return '';
+		return s.replace(/\s*$/, "");
+}
+
+function trim(s)
+{
+		return rtrim(ltrim(s));
+}
+
+// php's urlencode replaces spaces with "+"... the javascript's unescape doesn't decode it back
+function urldecode(str)
+{
+		if(!str) return '';		
+		return unescape(str.replace(/\+/g, ' '));		
+}
+
+// add this function to the body onLoad event handler to prefill all the elements with the given params
+function preFill(utf8)
+{
+		var url = document.URL;	
+		
+		var url_parts = url.split("?");
+		
+		if(url_parts.length == 2) {
+			
+				var search = url_parts[1];
+				
+				var params = search.split("&");
+				
+				for(var i=0; i<params.length;i++) {
+						var param = params[i].split("=");
+						var name = trim(urldecode(param[0]));
+						var value = utf8 ? trim(decodeURIComponent(param[1].replace(/\+/g, '%20'))) : trim(urldecode(param[1])); 
+						var elm;
+						var tmp;
+						
+						if(dateFields[name]) {
+								setDate(name, value);
+						} else if(multiFields[name]) {
+							eval("elm=arr_"+multiFields[name]+";");
+							for(tmp in elm) {
+								if(value.indexOf(tmp) > -1) {
+									setValue(name, elm[tmp]);									
+									value = value.substr(0,value.indexOf(tmp))+value.substr(value.indexOf(tmp)+tmp.length,value.length);									
+								}
+							}
+						}
+						else
+								// finaly, set the standard params
+								setValue(name, value, 0);
+				}
+		}
+}
+

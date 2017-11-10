@@ -1,0 +1,155 @@
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe.config
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.pdb
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Bunifu_UI_v1.52.DLL
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Fabric.Plugin.dll
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.AddSchedule_Form.resources
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Home.resources
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.ManageSchedule_Form.resources
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Properties.Resources.resources
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Schedule_Form.resources
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csproj.GenerateResource.Cache
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe.licenses
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe
+D:\VSPath\Project Path\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.pdb
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe.config
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.pdb
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.pdb
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Bunifu_UI_v1.52.DLL
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csprojResolveAssemblyReference.cache
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.AddSchedule_Form.resources
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Home.resources
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.ManageSchedule_Form.resources
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Properties.Resources.resources
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Schedule_Form.resources
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csproj.GenerateResource.Cache
+C:\Users\Dragonaire\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe.licenses
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe.config
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.pdb
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.pdb
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Bunifu_UI_v1.52.DLL
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF5.dll
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF6.dll
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Fabric.Plugin.dll
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csprojResolveAssemblyReference.cache
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.AddSchedule_Form.resources
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Home.resources
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.ManageSchedule_Form.resources
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Properties.Resources.resources
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Schedule_Form.resources
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csproj.GenerateResource.Cache
+G:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe.licenses
+E:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe.config
+E:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe
+E:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.pdb
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe.config
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.pdb
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.pdb
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Bunifu_UI_v1.52.DLL
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF5.dll
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF6.dll
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Fabric.Plugin.dll
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csprojResolveAssemblyReference.cache
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.AddSchedule_Form.resources
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Home.resources
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.ManageSchedule_Form.resources
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Properties.Resources.resources
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Schedule_Form.resources
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csproj.GenerateResource.Cache
+H:\SAD\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe.licenses
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe.config
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.pdb
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.pdb
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\Bunifu_UI_v1.52.DLL
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csprojResolveAssemblyReference.cache
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.AddSchedule_Form.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Home.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.ManageSchedule_Form.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Properties.Resources.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Schedule_Form.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csproj.GenerateResource.Cache
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe.licenses
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe.config
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.pdb
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csprojResolveAssemblyReference.cache
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.AddSchedule_Form.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Home.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.ManageSchedule_Form.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Properties.Resources.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Schedule_Form.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csproj.GenerateResource.Cache
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe.licenses
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.pdb
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\bin\Debug\Bunifu_UI_v1.52.DLL
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System - Copy\Nurse Scheduling System\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\Bunifu_UI_v1.52.DLL
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe.config
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.AddSchedule_Form.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Home.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.ManageSchedule_Form.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Properties.Resources.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Schedule_Form.resources
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csproj.GenerateResource.Cache
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe.licenses
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.pdb
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.pdb
+C:\Users\Dheo Claveria\Desktop\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csprojResolveAssemblyReference.cache
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe.config
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.pdb
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\Bunifu_UI_v1.52.DLL
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\bin\Debug\MySql.Fabric.Plugin.dll
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.AddSchedule_Form.resources
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Home.resources
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.ManageSchedule_Form.resources
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Properties.Resources.resources
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Schedule_Form.resources
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csproj.GenerateResource.Cache
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe.licenses
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.pdb
+D:\VSPath\Project Path\Nurse Scheduling System (NPC)\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csprojResolveAssemblyReference.cache
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe.config
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.pdb
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.exe
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\bin\Debug\Nurse Scheduling System.pdb
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\bin\Debug\Bunifu_UI_v1.52.DLL
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\bin\Debug\MySql.Fabric.Plugin.dll
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csprojResolveAssemblyReference.cache
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.AddSchedule_Form.resources
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Home.resources
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.ManageSchedule_Form.resources
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Properties.Resources.resources
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Schedule_Form.resources
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csproj.GenerateResource.Cache
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe.licenses
