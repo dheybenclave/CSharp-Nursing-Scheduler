@@ -289,6 +289,12 @@
       <DependentUpon>AddSchedule_Form.cs</DependentUpon>
     </Compile>
     <Compile Include="DBUtilities.cs" />
+    <Compile Include="header.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="header.designer.cs">
+      <DependentUpon>header.cs</DependentUpon>
+    </Compile>
     <Compile Include="Home.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -315,6 +321,9 @@
     </Compile>
     <EmbeddedResource Include="AddSchedule_Form.resx">
       <DependentUpon>AddSchedule_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="header.resx">
+      <DependentUpon>header.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.cs</DependentUpon>

@@ -145,7 +145,6 @@ D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\bin\Debug
 D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF5.dll
 D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\bin\Debug\MySql.Data.Entity.EF6.dll
 D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\bin\Debug\MySql.Fabric.Plugin.dll
-D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csprojResolveAssemblyReference.cache
 D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.AddSchedule_Form.resources
 D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Home.resources
 D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.ManageSchedule_Form.resources
@@ -153,3 +152,5 @@ D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug
 D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.Schedule_Form.resources
 D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csproj.GenerateResource.Cache
 D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.exe.licenses
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse_Scheduling_System.header.resources
+D:\VSPath\Project_Path\Nurse_Scheduling_System\Nurse Scheduling System\obj\Debug\Nurse Scheduling System.csprojResolveAssemblyReference.cache

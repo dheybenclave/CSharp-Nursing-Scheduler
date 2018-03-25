@@ -477,7 +477,6 @@ namespace Nurse_Scheduling_System
         {
             try
             {
-                string userid = "";
                 adapt = new MySqlDataAdapter("SELECT nurse_id  FROM db_scheduler_system.tbl_nurse order by last_insert_id(nurse_id) DESC LIMIT 1;", db.OpenConnection());
                 table = new DataTable(); adapt.Fill(table);
                 if (table.Rows.Count > 0)
@@ -658,7 +657,7 @@ namespace Nurse_Scheduling_System
             catch (Exception ex)
             { MessageBox.Show(ex.Message); }
 
-            for (int j = 0; j < selecteddays.Count; j++) { MessageBox.Show(selecteddays[j].ToString()); }
+           // for (int j = 0; j < selecteddays.Count; j++) { MessageBox.Show(selecteddays[j].ToString()); }
         }
 
 
